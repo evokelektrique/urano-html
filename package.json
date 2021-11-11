@@ -1,0 +1,29 @@
+{
+  "name": "urano-html",
+  "version": "1.0.0",
+  "description": "HTML Template made with Bulma for Urano customer support application.",
+  "main": "webpack.mix.js",
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "laravel-mix": "^6.0.39"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evokelektrique/urano-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evokelektrique/urano-html/issues"
+  },
+  "homepage": "https://github.com/evokelektrique/urano-html#readme"
+}
